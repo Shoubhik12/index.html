@@ -1,5 +1,3 @@
-# index.html
-# for app.py copy from next line
 <!DOCTYPE html>
 <html lang="en">
 <head>
